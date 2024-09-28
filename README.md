@@ -26,10 +26,14 @@ Table of Contents:
   
  
 Technologies
+
+
   .Backend: Node.js, Express, QR Code (qrcode library)
+  
   .Frontend: React, Axios for HTTP requests
+  
   .Tools: CORS, Axios
->
+
 
 Setup Instructions
   Prerequisites
