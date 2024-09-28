@@ -1,4 +1,6 @@
 >QR Code Generator App
+>
+>
 This project is a web application that generates QR codes based on user inputs like name, phone number, and address. The backend is built using Node.js (Express), and the frontend is developed using React. The app is useful for logistics purposes where generating QR codes with user or package information is required.
 
 Features
