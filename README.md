@@ -12,13 +12,19 @@ QR Code Generation:Users can input their name, phone number, and address, and a 
 
 Separation of Backend and Frontend: The backend handles the generation of QR codes, while the frontend provides the user interface.
 
-Table of Contents
-  >Technologies
-  >Setup Instructions
-  >Backend Setup
-  >Frontend Setup
-  >How to Use
-  >Screenshots
+Table of Contents:
+
+  Technologies
+  
+  Setup Instructions
+  
+  Backend Setup
+  
+  Frontend Setup
+  
+  How to Use
+  
+ 
 Technologies
   .Backend: Node.js, Express, QR Code (qrcode library)
   .Frontend: React, Axios for HTTP requests
